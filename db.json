@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "cedula": "1000000001",
+      "nombres": "George",
+      "apellidos": "Lucas",
+      "email": "glucas@nomail.com",
+      "id": 1
+    },
+    {
+      "cedula": "1000000002",
+      "nombres": "Sandra",
+      "apellidos": "Bullocks",
+      "email": "sbullock@nomail.com",
+      "id": 2
+    }
+  ]
+}

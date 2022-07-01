@@ -1,0 +1,51 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "cedula": "1000000001",
+            "nombres": "George",
+            "apellidos": "Lucas",
+            "email": "nomail@nomail.com",
+            "detalles": [
+                {
+                    "facha_nacimiento": "1988-12-25",
+                    "direccion_domicilio": "Quito, Norte",
+                    "telefono_movil": "+593998569312",
+                    "vacunado": true,
+                    "proceso_vacunacion": [
+                        {
+                            "nro_dosis": 1,
+                            "tipo_vacuna": "pfizer",
+                            "fecha_vacunacion": "2021-08-01"
+                        },
+                        {
+                            "nro_dosis": 2,
+                            "tipo_vacuna": "pfizer",
+                            "fecha_vacunacion": "2021-11-01"
+                        },
+                        {
+                            "nro_dosis": 3,
+                            "tipo_vacuna": "pfizer",
+                            "fecha_vacunacion": "2022-03-01"
+                        }                        
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "cedula": "1000000002",
+            "nombres": "Betty",
+            "apellidos": "Simonson",
+            "email": "betty@nomail.com"
+        },
+        {
+            "id": 3,
+            "cedula": "1000000003",
+            "nombres": "Rocky",
+            "apellidos": "Marciano",
+            "email": "rocky@nomail.com"
+        }                
+    ]
+
+}
